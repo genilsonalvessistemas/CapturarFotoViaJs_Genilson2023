@@ -1,0 +1,2 @@
+# CapturarFotoViaJs
+ CapturarFotoViaJs
